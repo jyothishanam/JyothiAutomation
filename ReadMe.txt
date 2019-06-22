@@ -1,1 +1,1 @@
-expecting Conflict
+defgSomethingResolved expecting a conflict1
