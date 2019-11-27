@@ -1,1 +1,2 @@
-file modified on  june 29
+defgSomethingResolved expecting a conflict1234
+git hub
